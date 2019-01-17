@@ -6,3 +6,5 @@ public static void main ()
 system.out.println("Hello word"); 
 }
 }
+
+System.out.println("Test copy");
